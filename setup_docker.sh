@@ -1,0 +1,2 @@
+echo "first test command"
+
